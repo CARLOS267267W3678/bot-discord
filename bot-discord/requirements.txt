@@ -1,4 +1,2 @@
-venv/
-.env
-__pycache__/
-*.pycdiscord.py==2.6.4
+discord.py
+python-dotenv
